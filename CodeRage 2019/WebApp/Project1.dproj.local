@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/05 08:27:11.000.379,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/06/10 11:20:15.000.638,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/06/10 11:24:01.000.947,=d:\dev\Project1.html</Transaction>
+    <Transaction>2019/06/10 11:24:02.000.262,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/06/17 14:43:48.000.903,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/06/17 14:44:57.000.704,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 10:39:17.744,=d:\dev\Project1.html</Transaction>
+    <Transaction>2019/06/19 10:39:18.527,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 10:50:59.359,D:\demo\coderage\WebApp\uFrmMain.html=d:\dev\Unit1.html</Transaction>
+    <Transaction>2019/06/19 10:50:59.359,D:\demo\coderage\WebApp\uFrmMain.dfm=d:\dev\Unit1.dfm</Transaction>
+    <Transaction>2019/06/19 10:50:59.359,D:\demo\coderage\WebApp\uFrmMain.pas=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 10:51:02.636,D:\demo\coderage\WebApp\Project1.html=d:\dev\Project1.html</Transaction>
+    <Transaction>2019/06/19 10:51:08.118,D:\demo\coderage\WebApp\Project1.dproj=d:\dev\Project1.dproj</Transaction>
+    <Transaction>2019/06/19 10:54:17.558,=D:\demo\GlobalClasses\uFlixKeys.pas</Transaction>
+  </Transactions>
+</BorlandProject>
